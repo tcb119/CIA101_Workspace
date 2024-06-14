@@ -1,4 +1,4 @@
-package ＨＷ2;
+package HW2;
 //• 請設計一隻Java程式,輸出結果為以下:
 // A
 // BB

@@ -2,9 +2,9 @@ package module12_15;
 
 public class AddInt {
 
-	public int varArgTest(int... c) {
+	public int varArgTest(int data,int...c) {
 		int sum = 0;
-
+		System.out.println(data);
 		for (int i = 0; i < c.length; i++) {
 			sum += c[i];
 		}

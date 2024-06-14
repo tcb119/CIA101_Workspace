@@ -9,13 +9,13 @@ public class TestArrays {
 
 	public static void main(String[] args) {
 		// 陣列排序
-		int[] intArray = {200, 300, 100};
-		Arrays.sort(intArray);  // 呼叫sort方法並傳入欲進行排序的陣列
-		for(int i = 0; i < intArray.length; i++) {
-			System.out.println(intArray[i]);
-		}
-		
-		System.out.println("==============");
+//		int[] intArray = {200, 300, 100};
+//		Arrays.sort(intArray);  // 呼叫sort方法並傳入欲進行排序的陣列
+//		for(int i = 0; i < intArray.length; i++) {
+//			System.out.println(intArray[i]);
+//		}
+//
+//		System.out.println("==============");
 		
 		//複製陣列
 		int[] intArray2 = {100, 200, 300};
