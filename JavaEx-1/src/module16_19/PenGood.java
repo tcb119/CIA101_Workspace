@@ -7,6 +7,14 @@ package module16_19;
 public class PenGood {
 	private String brand;
 	private double price;
+
+//	public PenGood(String brandXXX, double priceXXX) {
+//		brand = brandXXX;
+//		if (priceXXX > o)
+//			price = priceXXX;
+//		else
+//			System.out.println("請確認售價設定");
+//	}
 	
 	public String getBrand() {
 		return brand;
